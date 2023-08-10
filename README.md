@@ -49,7 +49,7 @@ UI, UX, and design in general.
 
 ## About Me 🙋‍♂️
 
-- 🌱 I’m currently Reading **BSc (Hons) in Software Engineering**.
+- 🌱 I’m currently learning **Information Technology Management** at UOM.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
