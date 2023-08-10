@@ -53,7 +53,7 @@ UI, UX, and design in general.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 📮 How to reach me **sathyaneth9989@gmail.com**
+- 📮 How to reach me **dissanayakedmsn.20@uom.lk**
 
 - ⚡ Fun fact **Watch English movies , TV-series & animes**.
   <br/>
