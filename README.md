@@ -129,8 +129,4 @@ UI, UX, and design in general.
 </p>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/udaraekanayake96">
-    <img src="data/bottom_header.svg" alt="Sathya Dissanayake">
-  </a>
-</p>
+
