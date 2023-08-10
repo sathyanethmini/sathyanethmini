@@ -130,7 +130,7 @@ UI, UX, and design in general.
 <br/>
 
 <p align="center">
-  <a href="https://github.com/sathyanethmini">
+  <a href="https://github.com/udaraekanayake96">
     <img src="data/bottom_header.svg" alt="Sathya Dissanayake">
   </a>
 </p>
