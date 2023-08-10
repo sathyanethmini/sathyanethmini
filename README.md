@@ -43,12 +43,7 @@ UI, UX, and design in general.
 
 
 ### 👨🏻‍💻 Follow me around the web 
-<a href="https://facebook.com/udaraekanayake1996" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://instagram.com/udaraekanayake_96/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/udaraekanayake96/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/udaraekanayake7" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://stackoverflow.com/users/22035554/udara-ekanayake" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-%231DA1Q2.svg?&style=flat-square&logo=Stackoverflow&logoColor=black" alt="StackOverFlow"></a>
-
+<a href="https://www.linkedin.com/in/sathya-dissanayake/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <br/>
 
@@ -63,9 +58,7 @@ UI, UX, and design in general.
 - ⚡ Fun fact **Watch English movies , TV-series & animes**.
   <br/>
 
-## Awards 🥇
 
-[![An image of @udaraekanayake96's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/udaraekanayake96)](https://holopin.io/@udaraekanayake96)
 
 ## Stat streak & Tropies 👑
 
@@ -74,43 +67,23 @@ UI, UX, and design in general.
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sathyanethmini&theme=onedark)
 
-
-## Stackoverflow and Github Status 👾
-
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
-
-![Sathya Dissanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathyanethmini&theme=tokyonight&show_icons=true)
-
-  <a href="https://github.com/sathyanethmini/github-readme-stats"><img alt="Sathya Dissanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyanethmini&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-
 <br/>
 
 <h3 align="left">Languages and Tools 🎲</h3>
 <br/>
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,pug,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=git,github,discord,bootstrap,c,cpp,cs,html,css,js,java,react,azure,docker,idea,linkedin,mongodb,mysql,stackoverflow,visualstudio,vscode,dotnet)
 
 <br/>
 
 #### Also Familiar
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-
 #### In free time
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
 
 #### A journey started with 
 ![Windows XP](https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
