@@ -24,12 +24,12 @@ UI, UX, and design in general.
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 
-<a href="https://github.com/udaraekanayake?tab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=udaraekanayake&style=plastic" />
+<a href="https://github.com/sathyanethmini?tab=followers" target="_blank">
+  <img align="center" alt="Sathya Dissanayake | Profile Views" width="120px" src="https://komarev.com/ghpvc/?username=sathyanethmini&style=plastic" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/udaraekanayaketab=followers" target="_blank">
-  <img align="center" alt="Udara Ekanayake | followers" width="93px" src="https://img.shields.io/github/followers/udaraekanayake?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<a href="https://github.com/sathyanethminitab=followers" target="_blank">
+  <img align="center" alt="Sathya Dissanayake | followers" width="93px" src="https://img.shields.io/github/followers/sathyanethmini?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 
@@ -54,17 +54,13 @@ UI, UX, and design in general.
 
 ## About Me 🙋‍♂️
 
-- 🔭 I’m currently working at **[NIBM](https://nibm.lk/)** as an Instructor.
-
-- 🐺 Owner of **[AlphaXcode](https://www.facebook.com/profile.php?id=100092565801133)**
-
-- 🌱 I’m currently learning **BSc (Hons) in Software Engineering**.
+- 🌱 I’m currently Reading **BSc (Hons) in Software Engineering**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 📮 How to reach me **udaraekanayake1996@gmail.com**
+- 📮 How to reach me **sathyaneth9989@gmail.com**
 
-- ⚡ Fun fact **I play video games , watch English movies , TV-series & animes**.
+- ⚡ Fun fact **Watch English movies , TV-series & animes**.
   <br/>
 
 ## Awards 🥇
@@ -73,19 +69,19 @@ UI, UX, and design in general.
 
 ## Stat streak & Tropies 👑
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=udaraekanayake&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sathyanethmini&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=udaraekanayake&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=sathyanethmini&theme=onedark)
 
 
 ## Stackoverflow and Github Status 👾
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=22035554&theme=dark" />
 
-![Udara Ekanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=udaraekanayake&theme=tokyonight&show_icons=true)
+![Sathya Dissanayake's GitHub stats](https://github-readme-stats.vercel.app/api?username=sathyanethmini&theme=tokyonight&show_icons=true)
 
-  <a href="https://github.com/udaraekanayake/github-readme-stats"><img alt="Udara Ekanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaraekanayake&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/sathyanethmini/github-readme-stats"><img alt="Sathya Dissanayake's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyanethmini&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 <br/>
 
@@ -93,12 +89,6 @@ UI, UX, and design in general.
 <br/>
 
 ![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino,c,cpp,cs,html,css,tailwind,js,nextjs,nodejs,express,laravel,java,react,pug,azure,docker,eclipse,idea,firebase,linkedin,matlab,mongodb,mysql,php,postman,spring,stackoverflow,unity,visualstudio,vscode,threejs,raspberrypi,dotnet,blender,androidstudio)
-
-<br/>
-
-
-If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
-<a href="https://www.buymeacoffee.com/udara96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br/>
 
@@ -133,14 +123,14 @@ If you like what I do, maybe consider buying me a coffee 🥺👉👈 <br/>
 
 <p align="center"> 
   Visitor count<br>
-  <a href="https://udaraekanayake.xyz?ref=github">
+  <a href="https://sathyanethmini.xyz?ref=github">
     <img src="https://profile-counter.glitch.me/udaraekanayake96/count.svg" />
   </a>
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://github.com/udaraekanayake">
-    <img src="data/bottom_header.svg" alt="Udara Ekanayake">
+  <a href="https://github.com/sathyanethmini">
+    <img src="data/bottom_header.svg" alt="Sathya Dissanayake">
   </a>
 </p>
